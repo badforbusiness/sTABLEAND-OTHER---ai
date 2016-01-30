@@ -1,0 +1,16 @@
+Grab p/L and funds
+input
+text file of account, password, api, type
+
+method
+read in credentials
+Secure connect to igserver
+Do 
+ request account info
+ format display account info ticker
+ send to ticker 
+loop
+
+Output
+p/l
+funds 
